@@ -1,3 +1,9 @@
+header{
+    background: gray;
+    color: white;
+    padding: 10px;
+    text-align: center;
+}
 body{
     background: gray;
     color: white;

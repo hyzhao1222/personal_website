@@ -1,11 +1,11 @@
 header{
-    background: gray;
-    color: white;
+    background: white;
+    color: black;
     padding: 10px;
     text-align: center;
 }
 body{
-    background: gray;
-    color: white;
+    background: white;
+    color: black;
     font-family: Arial;
 }
